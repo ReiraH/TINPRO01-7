@@ -1,2 +1,2 @@
-# TINPRO01-7
-TINPRO01-7 - Programmeren 7: functioneel programmeren
+# TINPRO01-7 Programmeren 7 Haskell
+TINPRO01-7 Programmeren 7 Haskell
